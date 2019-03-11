@@ -1,5 +1,5 @@
 # job_executor
-Implementation of a distributed file management tool
+Implementation of a distributed file management tool (Using named-pipes, fork/exec)
 
 compile/execute:
 	$ make
